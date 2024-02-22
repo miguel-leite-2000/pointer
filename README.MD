@@ -1,0 +1,3 @@
+# POINTER
+
+This project creates a Car structure with a Name field, a walked method that updates the Name field value to "BMW" and prints a message to the console, and a main block that creates a Car object with the Name field's initial value as " Jetur", calls the walked method on the car object and prints the value of the Name field to the console. Furthermore, there is a function abc that takes a pointer to an int as a parameter and assigns the value 200 to the variable pointed to by the pointer.
